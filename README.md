@@ -1,4 +1,6 @@
-### Hi there, glad to see you here 👋
+# Hi there, I'm Favour 👋
+
+### Glad to see you here!
 
 - 🔭 I’m currently working on becoming a software engineer
 - 🌱 I’m currently learning JavaScript
